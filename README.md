@@ -1,5 +1,5 @@
 # Paris
 
 # Identifiants de connexion
-Utilisateur -> user@gmail.com / Azerty321
-Administrateur -> admin@gmail.com/ Azerty123
+<b>Utilisateur</b> -> user@gmail.com / Azerty321<br>
+<b>Administrateur</b> -> admin@gmail.com/ Azerty123
